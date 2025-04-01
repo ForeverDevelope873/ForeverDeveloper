@@ -4,7 +4,8 @@ node_modules/
 # Logs
 *.log
 
-
+# Environment variables
+.env
 
 # MacOS system files
 .DS_Store
